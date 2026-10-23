@@ -1,0 +1,6 @@
+data/
+logs/
+model.joblib
+.DS_Store
+.env
+clearml.conf
